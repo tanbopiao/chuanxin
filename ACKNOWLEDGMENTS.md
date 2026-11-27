@@ -1,6 +1,6 @@
 # Acknowledgments
 
-This revival exists because 418 people built here before the lights went out.
+This revival — Chuanxin (传薪, "passing the flame") — exists because 418 people built here before the lights went out.
 
 The upstream repository — [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) — collected **1,082 pull requests from 159 authors and 469 issues from 281 reporters**. The last merge was on 2025-04-29. Even the founder's own pull requests (#971 by @asim-shrestha, #1053 by @awtkns) sat unmerged. The community kept showing up; the maintainers didn't.
 

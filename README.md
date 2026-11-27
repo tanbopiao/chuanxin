@@ -1,8 +1,8 @@
-# AgentGPT Revival
+# 传薪 (Chuanxin)
 
 **A community revival of [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) — where the community's fixes finally merge.**
 
-> The upstream collected 1,082 pull requests and 469 issues. The last merge was **2025-04-29**. Even the founder's own PRs sat unmerged. This fork exists to land them.
+> The name *Chuanxin* (传薪) comes from Zhuangzi: *"The firewood is consumed, but the fire passes on, and knows no end."* The upstream collected 1,082 pull requests and 469 issues. The last merge was **2025-04-29**. Even the founder's own PRs sat unmerged. The firewood ran out; this fork carries the flame.
 
 ## Why this fork
 
