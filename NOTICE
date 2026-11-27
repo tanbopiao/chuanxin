@@ -1,0 +1,11 @@
+# NOTICE
+
+This project is a community revival fork of AgentGPT by reworkd
+(https://github.com/reworkd/AgentGPT), last upstream commit 2025-04-28.
+
+The original work is licensed under the GNU General Public License v3.0,
+preserved unchanged in the LICENSE file. This fork is distributed under the
+same GPL-3.0 terms. All absorbed community contributions are credited in
+ACKNOWLEDGMENTS.md and mapped to their source in docs/ABSORPTION-LEDGER.md.
+
+This fork is not affiliated with or endorsed by reworkd.
