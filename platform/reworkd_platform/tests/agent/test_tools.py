@@ -51,6 +51,7 @@ def test_get_default_tool() -> None:
 
 def test_get_tool_from_name() -> None:
     assert get_tool_from_name("Search") == Search
-    assert get_tool_from_name("CoNcLuDe") == Conclude
+    # Conclude is no longer registered (removed in 24726ca); unknown names fall back to Search
+    assert get_tool_from_name("CoNcLuDe") == Search
     assert get_tool_from_name("NonExistingTool") == Search
     assert get_tool_from_name("SID") == SID
